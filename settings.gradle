@@ -1,0 +1,2 @@
+rootProject.name = "ModsGoogleV1"
+include ':app'
